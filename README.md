@@ -14,7 +14,6 @@
 - openai                   1.13.3
 - langchain-openai         0.0.5
 - python-dotenv            1.0.0
-- scikit-learn             1.0
 - langchain-community      0.0.25
 - crewai                   0.22.0
 - tavily-python            0.3.1
